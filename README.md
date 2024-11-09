@@ -41,9 +41,11 @@ Running the Code
 Set Up Kaggle API: Make sure your Kaggle API credentials are stored as environment variables (KAGGLE_USERNAME and KAGGLE_KEY) to download the dataset.
 Download and Preprocess Dataset:
 The code automatically downloads and unzips the dataset to the specified folder.
-Run the Model:
+
+# Run the Model:
 Train the model and evaluate its performance on the test set. The model outputs metrics, including accuracy, precision, recall, and F1 score.
-Visualizations:
+
+# Visualizations:
 Training and validation accuracy and loss are visualized to monitor the model's learning process.
 A confusion matrix is generated for a more detailed look at the classification performance.
 Evaluation Metrics
