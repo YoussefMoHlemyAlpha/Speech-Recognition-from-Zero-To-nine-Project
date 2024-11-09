@@ -44,7 +44,13 @@ Architecture: A feed-forward artificial neural network (ANN) is used due to its 
 #### Confusion Matrix: A confusion matrix is generated to analyze the model’s performance for each class, identifying any misclassifications and understanding the model’s strengths and weaknesses.
 ## 8. Visualization of Training and Evaluation
 Training Curves: Plots for training and validation accuracy and loss are generated to visualize model learning and monitor for overfitting or underfitting.
+
+![image](https://github.com/user-attachments/assets/31e70956-5446-429a-b6c5-e7da0c366f28)
+
 Confusion Matrix Visualization: The confusion matrix is visualized using a heatmap to analyze the model’s predictive accuracy across the different command classes.
+
+![image](https://github.com/user-attachments/assets/3b71a0e2-c37d-44d6-b768-ee23e49ac0a2)
+
 # Code Instructions :
 ## Prerequisites :
 Ensure the following Python libraries are installed:
@@ -78,25 +84,6 @@ The code automatically downloads and unzips the dataset to the specified folder.
 # Run the Model:
 Train the model and evaluate its performance on the test set. The model outputs metrics, including accuracy, precision, recall, and F1 score.
 
-# Visualizations:
-Training and validation accuracy and loss are visualized to monitor the model's learning process.
-A confusion matrix is generated for a more detailed look at the classification performance.
-![image](https://github.com/user-attachments/assets/31e70956-5446-429a-b6c5-e7da0c366f28)
-![image](https://github.com/user-attachments/assets/3b71a0e2-c37d-44d6-b768-ee23e49ac0a2)
-
-
-# Evaluation Metrics
-The project uses the following metrics for model evaluation:
-
-1- Accuracy.
-
-2- Precision.
-
-3- Recall.
-
-4- F1 Score.
-
-The metrics are calculated on the test set after training the model.
 
 # Dependencies and Installation Instructions
-Install the dependencies listed above, and then run the code in a Python environment. For best results, use a Jupyter notebook or an IDE that supports visualizations, such as VSCode or PyCharm.
+Install the dependencies listed above, and then run the code in Google Colab.
