@@ -17,13 +17,21 @@ Data Splitting: The dataset is split into training (80%), validation (10%), and 
 ## Prerequisites :
 Ensure the following Python libraries are installed:
 1-os
+
 2-numpy
+
 3-pandas
+
 4-librosa
+
 5-matplotlib
+
 6-scikit-learn
+
 7-tensorflow
+
 8-seaborn
+
 9-kaggle
 
 You can install the required libraries with:
