@@ -40,10 +40,10 @@ Training and validation accuracy and loss are visualized to monitor the model's 
 A confusion matrix is generated for a more detailed look at the classification performance.
 Evaluation Metrics
 # The project uses the following metrics for model evaluation:
-Accuracy
-Precision
-Recall
-F1 Score
+1- Accuracy
+2- Precision
+3- Recall
+4- F1 Score
 
 The metrics are calculated on the test set after training the model.
 
