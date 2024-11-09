@@ -52,8 +52,8 @@ A confusion matrix is generated for a more detailed look at the classification p
 ![image](https://github.com/user-attachments/assets/3b71a0e2-c37d-44d6-b768-ee23e49ac0a2)
 
 
-Evaluation Metrics
-# The project uses the following metrics for model evaluation:
+# Evaluation Metrics
+The project uses the following metrics for model evaluation:
 
 1- Accuracy.
 
